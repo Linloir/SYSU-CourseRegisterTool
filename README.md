@@ -4,7 +4,7 @@
 
 ## 如何安装
 
-1. 安装[TamperMonkey插件]()
+1. 安装[TamperMonkey插件](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 2. 安装[中山大学选课辅助脚本](https://greasyfork.org/scripts/460366-sun-yat-sen-university-course-registering-tool/code/Sun%20Yat-Sen%20University%20Course%20Registering%20Tool.user.js)
 3. 参考下文说明使用即可
 
