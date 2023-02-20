@@ -2,6 +2,12 @@
 
 中山大学辅助选课工具
 
+## 如何安装
+
+1. 安装[TamperMonkey插件]()
+2. 安装[中山大学选课辅助脚本](https://greasyfork.org/scripts/460366-sun-yat-sen-university-course-registering-tool/code/Sun%20Yat-Sen%20University%20Course%20Registering%20Tool.user.js)
+3. 参考下文说明使用即可
+
 ## 使用说明
 
 1. 进入可选课程预览页面，将想要辅助选课的课程收藏，注意不要超过一页能显示的量（10门）
